@@ -1,0 +1,13 @@
+.logo-wrapper img{
+    width:100px;
+}
+.fade-section {
+    opacity: 1; /* Start fully opaque */
+}
+[x-cloak] {
+    display: none;
+}
+.select2-search.select2-search--inline{
+    width: 100%;
+    padding: 8px 10px;
+}
